@@ -1,0 +1,37 @@
+Enterprise SOC Detection Lab
+
+Project Overview
+
+Built a Security Operations Center (SOC) detection lab using Splunk Enterprise, Sysmon, Splunk Universal Forwarder, and Atomic Red Team.
+
+Tools Used
+
+- Splunk Enterprise
+- Sysmon
+- Splunk Universal Forwarder
+- Atomic Red Team
+- PowerShell
+
+Features
+
+- Collected Windows event logs.
+- Forwarded logs to Splunk.
+- Created dashboards and alerts.
+- Simulated attacks using Atomic Red Team.
+- Detected PowerShell abuse.
+- Mapped detections to MITRE ATT&CK.
+
+Attack Simulations
+
+- PowerShell execution
+- Encoded PowerShell commands
+- User account creation
+- Scheduled task creation
+- Service creation
+
+MITRE ATT&CK Mapping
+
+- T1059.001 – PowerShell
+- T1136 – Create Account
+- T1053 – Scheduled Task
+- T1543 – Create or Modify System Process
