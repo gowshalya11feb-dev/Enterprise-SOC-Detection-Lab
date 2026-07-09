@@ -1,0 +1,9 @@
+MITRE ATT&CK Techniques Used
+
+T1059.001 - PowerShell
+
+T1136 - Create Account
+
+T1053 - Scheduled Task
+
+T1543 - Create or Modify System Process
